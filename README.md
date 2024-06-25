@@ -5,3 +5,5 @@ Làm Báo cáo & Phân tích Doanh số Bán hàng của Doanh nghiệp với Py
 - Doanh nghiệp cần chiếu quảng cáo vào khung thời gian nào để tăng khả năng mua hàng của khách hàng?
 - Những sản phẩm nào thường được bán cùng nhau?
 - Sản phẩm nào được bán nhiều nhất? Giả thiết của bạn về lý do sản phẩm này được bán nhiều nhất là gì?
+
+- https://www.youtube.com/watch?v=VH2JgqlN2so&t=304s
